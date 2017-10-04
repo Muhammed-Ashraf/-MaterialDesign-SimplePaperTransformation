@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\adf28ec1f18a2b869666d6ee733cc948e0fcf176\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce744c0acbb77a84796d978c13ca84dadd5fb690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE&apos;S\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_403c6bd68af4974de99e6d7681682b2efb3aba8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\381b9832bf577d05112d5f30aec2da0c4cf8109f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e076d07b5a673448426322d67624abb21b6a5bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\a68521b64f4a0bc45a41ca61d6c5d0d0d3098532\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_8f314b8b93884dc3604da0db6180c1b4a3bcb4d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\a68521b64f4a0bc45a41ca61d6c5d0d0d3098532\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64a5a6a277d90799bf12ca8d843e9e790b827438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\fec5d1faac2bdf9c4127364d6525434ef131f39e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f195b240d1b33fd1ae892b337006907bb6447c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_51050f313d7fa0ec2ca6498d70cab6be81be59d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b89fc86aabaeb7556729ee0547030cf7136c0c64">
+        <dex dex="D:\workspaces\Material_ws\ud862-samples-master\SimplePaperTransformations\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fbec5806aed8385dc69ed5decae89ace0bf9cc07\classes.dex" />
+    </item>
+
+</items>
